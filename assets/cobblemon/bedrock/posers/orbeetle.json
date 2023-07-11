@@ -16,6 +16,16 @@
       "animations": [
         "bedrock(orbeetle, ground_idle)"
       ]
-  }
+  },
+  	 "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "bedrock(orbeetle, ground_walk)"
+      ]
+    }
 }
 }

@@ -16,6 +16,16 @@
       "animations": [
         "bedrock(blipbug, ground_idle)"
       ]
-  }
+	},
+	 "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "bedrock(blipbug, ground_walk)"
+      ]
+    }
 }
 }
