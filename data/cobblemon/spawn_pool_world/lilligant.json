@@ -4,17 +4,16 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "dottler-1",
-            "pokemon": "dottler",
+            "id": "lilligant-1",
+            "pokemon": "lilligant",
             "presets": [
-                "natural",
-                "treetop"
+                "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "9-20",
-            "weight": 2.0,
+            "bucket": "rare",
+            "level": "12-32",
+            "weight": 7.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -28,22 +27,20 @@
             }
         },
         {
-            "id": "dottler-2",
-            "pokemon": "dottler",
+            "id": "lilligant-2",
+            "pokemon": "lilligant",
             "presets": [
-				"natural",
-                "foliage",
-                "treetop"
+				"natural"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
-            "level": "9-20",
-            "weight": 2.0,
+            "level": "16-40",
+            "weight": 7.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_plains"
+                    "#cobblemon:is_jungle"
                 ]
             }
         }

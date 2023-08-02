@@ -4,17 +4,16 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "dottler-1",
-            "pokemon": "dottler",
+            "id": "petilil-1",
+            "pokemon": "petilil",
             "presets": [
-                "natural",
-                "treetop"
+                "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "9-20",
-            "weight": 2.0,
+            "bucket": "common",
+            "level": "2-19",
+            "weight": 7.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
@@ -28,22 +27,20 @@
             }
         },
         {
-            "id": "dottler-2",
-            "pokemon": "dottler",
+            "id": "petilil-2",
+            "pokemon": "petilil",
             "presets": [
-				"natural",
-                "foliage",
-                "treetop"
+				"natural"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "9-20",
-            "weight": 2.0,
+            "bucket": "common",
+            "level": "4-26",
+            "weight": 7.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_plains"
+                    "#cobblemon:is_jungle"
                 ]
             }
         }
