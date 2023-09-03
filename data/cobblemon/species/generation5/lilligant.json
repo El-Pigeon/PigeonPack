@@ -15,6 +15,9 @@
     "special_defence": 75,
     "speed": 90
   },
+  "features": [
+    "hisuian"
+  ],
   "catchRate": 75,
   "maleRatio": 0,
   "shoulderMountable": false,
@@ -38,6 +41,7 @@
       },
       "catchRate": 75,
       "maleRatio": 0,
+      "baseExperienceYield": 0,
       "baseFriendship": 50,
       "evYield": {
         "hp": 0,
@@ -125,6 +129,11 @@
       "weight": 192,
       "preEvolution": "petilil",
       "evolutions": [],
+	  "hitbox": {
+	    "width": 1,
+        "height": 2,
+	    "fixed": false
+	  },
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -147,16 +156,15 @@
     "1:helpinghand",
     "1:leafstorm",
     "1:leechseed",
-    "1:magicalleaf",
     "1:megadrain",
+    "1:petalblizzard",
+    "1:quiverdance",
     "1:sleeppowder",
     "1:stunspore",
     "1:sunnyday",
     "1:synthesis",
-    "10:teeterdance",
-    "28:quiverdance",
-    "46:petaldance",
-    "50:petalblizzard",
+    "1:teeterdance",
+    "5:magicalleaf",
     "tm:attract",
     "tm:bulletseed",
     "tm:charm",
@@ -201,18 +209,11 @@
     "tm:terablast",
     "tm:toxic",
     "tm:trailblaze",
-    "tutor:afteryou",
     "tutor:covet",
-    "tutor:gigadrain",
     "tutor:grassyglide",
     "tutor:healbell",
-    "tutor:helpinghand",
     "tutor:laserfocus",
     "tutor:roleplay",
-    "tutor:seedbomb",
-    "tutor:sleeptalk",
-    "tutor:snore",
-    "tutor:synthesis",
     "tutor:worryseed"
   ],
   "labels": [
@@ -227,7 +228,7 @@
   "baseScale": 1,
   "hitbox": {
     "width": 1,
-    "height": 1.4,
+    "height": 1,
     "fixed": false
   },
   "baseFriendship": 50,

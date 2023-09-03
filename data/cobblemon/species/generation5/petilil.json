@@ -26,26 +26,23 @@
   ],
   "moves": [
     "1:absorb",
-    "4:growth",
-    "8:leechseed",
-    "10:sleeppowder",
+    "1:growth",
+    "3:helpinghand",
+    "6:stunspore",
+    "9:megadrain",
+    "12:aromatherapy",
     "12:charm",
-    "13:megadrain",
-    "17:synthesis",
-    "19:magicalleaf",
-    "22:stunspore",
-    "26:gigadrain",
-    "28:aromatherapy",
-    "31:helpinghand",
-    "35:energyball",
-    "37:entrainment",
-    "40:sunnyday",
-    "44:afteryou",
-    "46:leafstorm",
+    "15:magicalleaf",
+    "18:sleeppowder",
+    "21:gigadrain",
+    "24:leechseed",
+    "27:afteryou",
+    "30:energyball",
+    "33:synthesis",
+    "36:sunnyday",
+    "39:entrainment",
+    "42:leafstorm",
     "egg:bide",
-    "egg:charm",
-    "egg:encore",
-    "egg:endure",
     "egg:grasswhistle",
     "egg:healingwish",
     "egg:ingrain",
@@ -89,21 +86,10 @@
     "tm:terablast",
     "tm:toxic",
     "tm:trailblaze",
-    "tutor:afteryou",
-    "tutor:charm",
     "tutor:covet",
-    "tutor:gigadrain",
     "tutor:grassyglide",
     "tutor:healbell",
-    "tutor:helpinghand",
-    "tutor:laserfocus",
-    "tutor:seedbomb",
-    "tutor:sleeppowder",
-    "tutor:sleeptalk",
-    "tutor:snore",
-    "tutor:sweetscent",
-    "tutor:synthesis",
-    "tutor:worryseed"
+    "tutor:laserfocus"
   ],
   "labels": [
     "gen5"
@@ -123,22 +109,22 @@
       "requirements": [],
       "requiredContext": "cobblemon:sun_stone"
     },
-    {
-      "id": "petilil_lilligant",
+  {
+      "id": "petilil_lilligant_hisuian",
       "variant": "item_interact",
-      "result": "lilligant form=hisui",
+      "result": "lilligant hisuian",
       "consumeHeldItem": false,
       "learnableMoves": [
         "victorydance"
       ],
       "requirements": [],
-      "requiredContext": "cobblemon:sun_stone"
+      "requiredContext": "cobblemon:leaf_stone"
     }
   ],
   "baseScale": 1,
   "hitbox": {
-    "width": 0.75,
-    "height": 0.9,
+    "width": 1,
+    "height": 1,
     "fixed": false
   },
   "baseFriendship": 50,
