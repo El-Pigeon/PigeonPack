@@ -13,7 +13,8 @@
 		"PROFILE",
 		"NONE"
       ],
-      "animations": [
+	"animations": [
+		"look",
         "bedrock(lilligant, ground_idle)"
       ]
   },
@@ -24,6 +25,7 @@
         "WALK"
       ],
       "animations": [
+		"look",
         "bedrock(lilligant, ground_walk)"
       ]
   },

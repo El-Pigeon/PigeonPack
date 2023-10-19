@@ -15,6 +15,7 @@
 		"NONE"
       ],
       "animations": [
+		"look",
         "bedrock(petilil, ground_idle)"
       ]
   },
@@ -25,6 +26,7 @@
         "WALK"
       ],
       "animations": [
+		"look",
         "bedrock(petilil, ground_walk)"
       ]
     }
