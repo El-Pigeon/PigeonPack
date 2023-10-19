@@ -1,16 +1,9 @@
 {
   "head": "head",
-<<<<<<< Updated upstream
   "portraitScale": 1.8,
   "portraitTranslation": [ 0, 1.6, 0 ],
   "profileScale": 0.7,
   "profileTranslation": [ 0, 0.8, 0 ],
-=======
-  "portraitScale": 2,
-  "portraitTranslation": [ 0, 1, 0 ],
-  "profileScale": 0.8,
-  "profileTranslation": [ 0, 0.6, 0 ],
->>>>>>> Stashed changes
   "poses": {
     "standing": {
       "poseName": "standing",
@@ -21,11 +14,8 @@
 		"NONE"
       ],
       "animations": [
-<<<<<<< Updated upstream
-=======
 		"look",
 		"bedrock(lilligant_hisui, scale)",
->>>>>>> Stashed changes
         "bedrock(lilligant_hisui, ground_idle)"
       ]
   },
@@ -36,11 +26,8 @@
         "WALK"
       ],
       "animations": [
-<<<<<<< Updated upstream
-=======
 		"look",
 		"bedrock(lilligant_hisui, scale)",
->>>>>>> Stashed changes
         "bedrock(lilligant_hisui, ground_walk)"
       ]
   },
@@ -51,10 +38,7 @@
         "PORTRAIT"
       ],
       "animations": [
-<<<<<<< Updated upstream
-=======
 		"bedrock(lilligant_hisui, scale)",
->>>>>>> Stashed changes
         "bedrock(lilligant_hisui, dex)"
       ]
   }

@@ -3,6 +3,7 @@
 	"animations": {
 		"animation.volcanion.ground_idle": {
 			"loop": true,
+			"animation_length": 21.33333,
 			"bones": {
 				"head": {
 					"rotation": [5, 0, 0]
@@ -76,7 +77,8 @@
 				},
 				"arm_left9": {
 					"rotation": [0, 0, -12.5],
-					"position": [-0.65, -0.075, 0]
+					"position": [-0.65, -0.075, 0],
+					"scale": 1
 				},
 				"arm_left8": {
 					"rotation": [0, 0, -25],

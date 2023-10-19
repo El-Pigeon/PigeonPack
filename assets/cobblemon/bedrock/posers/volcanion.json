@@ -4,10 +4,7 @@
   "portraitTranslation": [ -1.4,0.8, 0],
   "profileScale": 0.4,
   "profileTranslation": [ 0, 1.2, 0],
-<<<<<<< Updated upstream
-=======
   "cry": "bedrock(volcanion, cry)",
->>>>>>> Stashed changes
   "poses": {
     "standing": {
       "poseName": "standing",
