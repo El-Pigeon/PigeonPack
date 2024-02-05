@@ -38,7 +38,7 @@
 	},
     "standing": {
       "poseName": "standing",
-      "transformTicks": 10,
+      "transformTicks": 0,
       "poseTypes": ["STAND","PORTRAIT","PROFILE","NONE"],
 	  "isBattle": false,
       "animations": [
@@ -72,14 +72,14 @@
   },
   	 "walking": {
       "poseName": "walking",
-      "transformTicks": 10,
+      "transformTicks": 0,
       "poseTypes": [
         "WALK"
       ],
       "animations": [
 		"look",
 		"bedrock(fomantis, eyes_default)",
-        "bedrock(fomantis, ground_walk)"
+        "bedrock(fomantis, ground_walk, )"
       ],
 	  "quirks":[
 	  {
@@ -101,7 +101,7 @@
     },
 	"swim":{
 	  "poseName": "swim",
-      "transformTicks": 10,
+      "transformTicks": 5,
       "poseTypes": ["SWIM","FLOAT"],
 	  "isBattle": false,
       "isTouchingWater": true,
