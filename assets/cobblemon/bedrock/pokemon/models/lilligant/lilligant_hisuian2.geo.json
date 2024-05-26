@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.lilligant_h",
+				"identifier": "geometry.lilligant_hisuian",
 				"texture_width": 64,
 				"texture_height": 64,
 				"visible_bounds_width": 4,
@@ -12,12 +12,12 @@
 			},
 			"bones": [
 				{
-					"name": "lilligant_hisui",
+					"name": "lilligant_hisuian",
 					"pivot": [0, 0, 0]
 				},
 				{
 					"name": "torso",
-					"parent": "lilligant_hisui",
+					"parent": "lilligant_hisuian",
 					"pivot": [0, 23, 0],
 					"cubes": [
 						{"origin": [-1.5, 19.5, -1.5], "size": [3, 5, 3], "inflate": 0.3, "uv": [29, 16]}

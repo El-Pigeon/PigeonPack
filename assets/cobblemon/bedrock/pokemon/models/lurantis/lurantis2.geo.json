@@ -6,7 +6,7 @@
 				"identifier": "geometry.lurantis",
 				"texture_width": 64,
 				"texture_height": 64,
-				"visible_bounds_width": 4,
+				"visible_bounds_width": 5,
 				"visible_bounds_height": 3.5,
 				"visible_bounds_offset": [0, 1.25, 0]
 			},
@@ -25,7 +25,7 @@
 					"parent": "body",
 					"pivot": [0, 18.8, -0.25],
 					"cubes": [
-						{"origin": [-0.5, 17.3, -0.75], "size": [1, 4, 1], "uv": [12, 48]}
+						{"origin": [-0.5, 18.3, -0.75], "size": [1, 4, 1], "uv": [12, 48]}
 					]
 				},
 				{

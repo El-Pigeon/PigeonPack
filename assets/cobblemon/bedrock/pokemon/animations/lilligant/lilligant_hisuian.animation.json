@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.lilligant_hisui.ground_idle": {
+		"animation.lilligant_hisuian.ground_idle": {
 			"loop": true,
 			"bones": {
 				"leg_right": {
@@ -446,7 +446,7 @@
 				}
 			}
 		},
-		"animation.lilligant_hisui.ground_walk": {
+		"animation.lilligant_hisuian.ground_walk": {
 			"loop": true,
 			"animation_length": 1,
 			"bones": {
@@ -1098,8 +1098,8 @@
 				}
 			}
 		},
-		"animation.lilligant_hisui.dex": {
-			"loop": true,
+		"animation.lilligant_hisuian.dex": {
+			"animation_length": 0.5,
 			"bones": {
 				"leg_right": {
 					"rotation": [-7.94715, 18.52518, -14.75798],
@@ -1248,7 +1248,7 @@
 				}
 			}
 		},
-		"animation.lilligant_hisui.scale": {
+		"animation.lilligant_hisuian.scale": {
 			"loop": true,
 			"bones": {
 				"torso": {

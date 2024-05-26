@@ -15,8 +15,8 @@
       ],
       "animations": [
 		"look",
-		"bedrock(lilligant_hisui, scale)",
-        "bedrock(lilligant_hisui, ground_idle)"
+		"bedrock(lilligant_hisuian, scale)",
+        "bedrock(lilligant_hisuian, ground_idle)"
       ]
   },
   	 "walking": {
@@ -27,8 +27,8 @@
       ],
       "animations": [
 		"look",
-		"bedrock(lilligant_hisui, scale)",
-        "bedrock(lilligant_hisui, ground_walk)"
+		"bedrock(lilligant_hisuian, scale)",
+        "bedrock(lilligant_hisuian, ground_walk)"
       ]
   },
 	"portrait": {
@@ -38,8 +38,8 @@
         "PORTRAIT"
       ],
       "animations": [
-		"bedrock(lilligant_hisui, scale)",
-        "bedrock(lilligant_hisui, dex)"
+		"bedrock(lilligant_hisuian, scale)",
+        "bedrock(lilligant_hisuian, dex)"
       ]
   }
 }
