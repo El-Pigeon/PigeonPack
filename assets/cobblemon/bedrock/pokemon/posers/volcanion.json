@@ -28,7 +28,7 @@
       ],
       "animations": [
 		"look",
-        "bedrock(volcanion, ground_walk)"
+        "bedrock(volcanion, ground_idle)"
       ]
     }
 }

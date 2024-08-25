@@ -9,9 +9,6 @@
       "texture": "cobblemon:textures/pokemon/volcanion/volcanion.png",
       "layers": [ 
 	  {
-          "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/volcanion/volcanion_emissive.png",
-          "emissive": true
         }
 		]
     },
@@ -22,9 +19,6 @@
       "texture": "cobblemon:textures/pokemon/volcanion/volcanion_shiny.png",
       "layers": [
 	   {
-          "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/volcanion/volcanion_emissive.png",
-          "emissive": true
         }
 	  ]
     }
