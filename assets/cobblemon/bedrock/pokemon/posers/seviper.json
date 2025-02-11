@@ -4,7 +4,9 @@
   "portraitTranslation": [ -0.8, -0.2, 0],
   "profileScale": 0.75,
   "profileTranslation": [ 0, 0.55, 0],
-  "cry": "bedrock(seviper, cry)",
+  "animations": {
+  "cry": "q.bedrock_stateful('seviper', 'cry')"
+  },
   "poses": {
 	 "battle-idle":{
 	 "poseName": "battle-idle",

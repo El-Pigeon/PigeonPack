@@ -4,7 +4,9 @@
   "portraitTranslation": [ 0, 0.4, 0],
   "profileScale": 0.75,
   "profileTranslation": [ 0, 0.65, 0],
-  "cry": "bedrock(zangoose, cry)",
+  "animations": {
+	"cry": "q.bedrock_stateful('zangoose', 'cry')"
+  },
   "poses": {
 	"battle-idle":{
 	  "poseName": "battle-idle",
@@ -14,7 +16,7 @@
 	  ],
 	  "isBattle": true,
 	  "animations": [
-    "bedrock(zangoose, battle_idle)"
+		"bedrock(zangoose, battle_idle)"
     ],
 	  "quirks":[
 	  {
